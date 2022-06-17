@@ -13,7 +13,6 @@
 		<ul>
 			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Adams/forecasts/3741">Mt Adams</a></li>
 			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Bachelor/forecasts/2764">Mount Bachelor</a></li>
-			<li><a href="https://www.mountain-forecast.com/peaks/Broken-Top/forecasts/2797">Broken Top</a></li>
 			<li><a href="https://www.mountain-forecast.com/peaks/Diamond-Peak-Oregon/forecasts/2665">Diamond Peak</a></li>
 			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Hood/forecasts/3426">Mt Hood</a></li>
 			<li><a href="https://www.mountain-forecast.com/peaks/Lassen-Peak/forecasts/3187">Lassen Peak</a></li>
@@ -22,9 +21,7 @@
 			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Saint-Helens/forecasts/2549">Mt St Helens</a></li>
 			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Thielsen/forecasts/2797">Mt Thielsen</a></li>
 			<li><a href="https://www.mountain-forecast.com/peaks/Three-Sisters/forecasts/3157">Three Sisters</a></li>
-			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Washington-3/forecasts/2376">Mt Washington</a></li>
-			<br>
-			<li><a href="https://forecast.weather.gov/MapClick.php?lat=44.06&lon=-121.3#.YqNpsXbMKUk">NOAA Bend</a></li>
+			<li><a href="https://www.mountain-forecast.com/peaks/Mount-Washington-3/forecasts/2376">Mt Washington</a></li>			
 		</p>
 	</body>
 </html>
